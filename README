@@ -6,3 +6,4 @@
 - `source venv/Scripts/activate` : 가상환경 활성화
     - linux, mac의 경우 : `Scripts` 대신 `bin`
 - `deactivate` : 가상환경 비활성화
+- git remote remove origin : 다른 사람의 폴더/파일을 클론 할 때 그 사람의 github을 끊기 위해 사용
